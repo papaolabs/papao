@@ -8,4 +8,4 @@ papao는 [서울시 공공 앱 오픈소스 프로젝트 경진대회](https://m
 
 ## 참여하고 싶으신가요?
 
-직접 버그를 신고하거나 코드 작성, 문서를 개선하고 싶으신가요? 먼저 Contribution에 대한 가이드 라인을 읽고 Issues 중 하나인 [community-help](https://github.com/papaolabs/papao/labels/community-help)를 확인해주세요.
+직접 버그를 신고하거나 코드 작성, 문서를 개선하고 싶으신가요? 먼저 [Contribution](https://github.com/papaolabs/papao/blob/master/CONTRIBUTING.md)에 대한 가이드 라인을 읽고 Issues 중 하나인 [community-help](https://github.com/papaolabs/papao/labels/community-help)를 확인해주세요.
