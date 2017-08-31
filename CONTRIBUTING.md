@@ -51,23 +51,23 @@ Pull Request (PR)를 제출하기 전에 다음 지침을 고려하십시오.
 - GitHub에서 중복된 PR이 있는지 확인해주세요.
 - 새로운 git 브랜치에서 변경하십시오 :
 
-- ```shell
-git checkout -b my-fix-branch master
-```
+     ```shell
+     git checkout -b my-fix-branch master
+     ```
 
 - 적절한 테스트 케이스를 포함하여 패치를 작성해주세요.
 - 우리의 코딩 규칙을 따르는지 확인해주세요..
 - 커밋 메시지 규칙을 따르는 설명 커밋 메시지를 사용하여 변경 내용을 커밋합니다. 릴리스 노트는 이러한 메시지에서 자동으로 생성되므로 이러한 규칙을 준수해야합니다.
 
-- ```shell
-git commit -a
-```
+     ```shell
+     git commit -a
+     ```
 
 - 브랜치를 GitHub로 푸시합니다.
 
-- ```shell
-git push origin my-fix-branch
-```
+     ```shell
+     git push origin my-fix-branch
+     ```
 
 - GitHub에서 각도 : master로 끌어 오기 요청을 보냅니다.
 
@@ -75,10 +75,11 @@ git push origin my-fix-branch
 	- 필요한 업데이트를하십시오.
 
 브랜치를 리베이스한 뒤 여러분의 Github 레파지토리로 강제로 푸시해주세요(이를 통해 풀리퀘스트가 업데이트 됩니다)
-- ```shell
-git rebase master -i
-git push -f
-```
+
+     ```shell
+     git rebase master -i
+     git push -f
+     ```
 
 ## <a name="rules"></a> Coding Rules
 향후 업데이트 예정입니다.
